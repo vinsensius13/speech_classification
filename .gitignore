@@ -1,0 +1,26 @@
+# ⛔ Jangan masukin virtual environment
+venv/
+env/
+
+# ⛔ File hasil training, audio, dan model (kecuali bestmodel)
+*.pth
+!bestmodel-rawr.pth
+temp.wav
+
+# ⛔ Python & notebook cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ⛔ Editor dan sistem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ⛔ File log atau metadata sementara
+*.log
+*.csv
+
+# ⛔ (Opsional) Exclude seluruh folder dataset
+data-suara/
