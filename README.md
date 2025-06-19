@@ -1,6 +1,9 @@
 **Nama**: Vinsensius Fendy Kurniawan
+
 **Tugas**: Mini Project - Tugas 25
+
 **Topik**: Speech Classification with CNN
+
 
 # 🐾 Animal Sound Classifier (CNN-based)
 
